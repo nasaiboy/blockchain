@@ -1,0 +1,19 @@
+{
+  "name": "program",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "crypto-js": "^4.0.0"
+  },
+  "dependencies": {
+    "elliptic": "^6.5.2",
+    "secp256k1": "^4.0.1"
+  }
+}
